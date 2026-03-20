@@ -13,7 +13,7 @@ C++ Developer • DSA Enthusiast • Computer Engineering Student
 ## About
 
 Focused on **C++**, **Object-Oriented Programming**, and **Data Structures & Algorithms**.  
-I build structured, maintainable systems and continuously improve through problem solving and real-world projects.
+I build structured, maintainable systems and improve continuously through problem solving and real-world projects.
 
 ---
 
@@ -42,11 +42,15 @@ Git, Linux
 ## GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hassanmahmood4&show_icons=true&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hassanmahmood4&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassanmahmood4&layout=compact&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassanmahmood4&layout=compact&theme=github_dark&hide_border=true&bg_color=000000" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Hassanmahmood4&theme=github-dark&hide_border=true" />
 </p>
 
 ---
@@ -61,4 +65,4 @@ Email: (Add your email)
 
 <p align="center">
 <sub>Consistency beats intensity.</sub>
-</p>
+</p>**
