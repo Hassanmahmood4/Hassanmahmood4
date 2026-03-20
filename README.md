@@ -1,119 +1,138 @@
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?q=80&w=1400" width="100%" />
-</p>
+<div align="center">
 
-<h1 align="center">Welcome to Hassan's GitHub</h1>
+### Hi there 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?size=28&color=FFFFFF&center=true&vCenter=true&width=600&lines=C%2B%2B+Developer;DSA+Enthusiast;Computer+Engineering+Student;Building+Efficient+Systems" />
-</p>
+# Hassan Mahmood
 
----
+**C++ Developer | DSA Enthusiast | Computer Engineering Student**
 
-<h2 align="center">Hassan Mahmood</h2>
+<sub>Building reliable systems, sharpening fundamentals, and shipping maintainable code.</sub>
 
-<p align="center">
-C++ Developer • DSA Enthusiast • Computer Engineering Student
-</p>
+<br/>
 
-<p align="center">
-<em>Focused on performance, clean architecture, and problem solving.</em>
-</p>
+<img src="https://komarev.com/ghpvc/?username=Hassanmahmood4&label=Profile%20views&color=0d1117&style=flat" alt="Profile views" />
+
+</div>
+
+<br/>
 
 ---
 
-## 🧠 About Me
+## About me
 
-- 🚀 Building systems using **C++ and OOP**
-- 🧩 Strong focus on **Data Structures & Algorithms**
-- 🛠️ Writing clean, modular, and maintainable code
-- 📈 Continuously improving through problem solving
+- Passion for **C++** and structured, performance-minded programs  
+- Strong interest in **Data Structures & Algorithms** and algorithmic problem solving  
+- Focus on **problem solving**, **system building**, and code that stays clear as projects grow  
 
----
-
-## ⚡ Tech Stack
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Data%20Structures-000000?style=for-the-badge"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Algorithms-000000?style=for-the-badge"/>
-&nbsp;
-<img src="https://img.shields.io/badge/OOP-000000?style=for-the-badge"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
-
-</p>
+<br/>
 
 ---
 
-## 🚀 Featured Projects
+## Tech stack
 
-🔹 **Banking System (C++)**  
-Modular console-based system implementing OOP, file handling, and transaction management  
+<div align="center">
 
-🔹 **DSA Practice**  
-Structured implementations of core data structures and algorithms  
+<img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+<img src="https://img.shields.io/badge/OOP-0d1117?style=for-the-badge" alt="OOP" />
+<img src="https://img.shields.io/badge/Data%20Structures-0d1117?style=for-the-badge" alt="Data Structures" />
+<img src="https://img.shields.io/badge/Algorithms-0d1117?style=for-the-badge" alt="Algorithms" />
 
----
+</div>
 
-## 📊 GitHub Overview
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hassanmahmood4&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassanmahmood4&layout=compact&theme=github_dark&hide_border=true&bg_color=000000" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Hassanmahmood4&theme=github-dark&hide_border=true" />
-</p>
+<br/>
 
 ---
 
-## 📈 Activity Graph
+## GitHub stats
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hassanmahmood4&theme=github-dark&hide_border=true" />
-</p>
+<div align="center">
+
+<table>
+<tr>
+<td align="center" valign="top">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Hassanmahmood4&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff" alt="GitHub stats" />
+
+</td>
+<td align="center" valign="top">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassanmahmood4&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff" alt="Top languages" />
+
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+
+<img src="https://streak-stats.demolab.com?user=Hassanmahmood4&theme=github-dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&dates=8b949e" alt="Streak stats" />
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
 
 ---
 
-## 🐍 Contribution Snake
+<div align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Hassanmahmood4/Hassanmahmood4/output/github-contribution-grid-snake.svg" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=40&section=footer&reversal=true" alt="" width="100%" />
+
+</div>
+
+<br/>
 
 ---
 
-## 🤝 Connect
+## GitHub trophies
 
-<p align="center">
+<div align="center">
 
-<a href="#">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Hassanmahmood4&theme=dracula&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="GitHub trophies" />
+
+</div>
+
+<br/>
+
+---
+
+## Contribution graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hassanmahmood4&theme=github-compact&hide_border=true&area=true&point=ffffff&color=58a6ff&line=58a6ff&bg_color=0d1117" alt="Activity graph" />
+
+</div>
+
+<br/>
+
+---
+
+## Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/your-linkedin-url" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;
-<a href="#">
-  <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:your.email@example.com">
+  <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
-</p>
+</div>
+
+<br/>
 
 ---
 
-## 👀 Visitors
+## Snake
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Hassanmahmood4/count.svg" />
-</p>
+<div align="center">
 
----
+<img src="https://raw.githubusercontent.com/Hassanmahmood4/Hassanmahmood4/output/github-contribution-grid-snake.svg" alt="Snake contribution grid" />
 
-<p align="center">
-<sub>Consistency beats intensity.</sub>
-</p>
+</div>
