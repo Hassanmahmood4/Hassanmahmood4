@@ -19,40 +19,46 @@ C++ Developer • DSA Enthusiast • Computer Engineering Student
 
 ---
 
-## About Me
+## 💻 About Me
 
-I focus on **C++**, **Object-Oriented Programming**, and **Data Structures & Algorithms**, building practical systems and solving real-world problems.
-
-I enjoy writing clean, modular code and continuously improving my problem-solving skills.
-
----
-
-## Tech Stack
-
-**Languages:**  
-C++
-
-**Core Concepts:**  
-Object-Oriented Programming, Data Structures, Algorithms  
-
-**Tools:**  
-Git, Linux  
+- 🚀 Passionate about **C++ and Problem Solving**
+- 🧠 Focused on **Data Structures & Algorithms**
+- 🏗️ Building structured and modular systems using **OOP**
+- 📈 Continuously improving coding and system design skills
 
 ---
 
-## Selected Projects
+## ⚡ Tech Stack
 
-**Banking System (C++)**  
-A modular console-based banking application implementing OOP principles and structured design.  
-`C++ • OOP • File Handling`
+<p align="center">
 
-**DSA Practice**  
-A collection of problems covering arrays, linked lists, trees, and algorithms.  
-`C++ • Data Structures • Algorithms`
+<img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Data%20Structures-000000?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Algorithms-000000?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/OOP-000000?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+
+</p>
 
 ---
 
-## GitHub Stats
+## 🚀 Projects
+
+🔹 **Banking System (C++)**  
+Console-based application using OOP principles and modular design  
+
+🔹 **DSA Practice**  
+Collection of core data structures and algorithm implementations  
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hassanmahmood4&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000" />
@@ -68,7 +74,7 @@ A collection of problems covering arrays, linked lists, trees, and algorithms.
 
 ---
 
-## Activity Graph
+## 📈 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hassanmahmood4&theme=github-dark" />
@@ -76,11 +82,27 @@ A collection of problems covering arrays, linked lists, trees, and algorithms.
 
 ---
 
-## Contact
+## 🤝 Connect With Me
 
-GitHub: https://github.com/Hassanmahmood4  
-LinkedIn: (Add your LinkedIn)  
-Email: (Add your email)
+<p align="center">
+
+<a href="#">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="#">
+  <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Hassanmahmood4/count.svg" />
+</p>
 
 ---
 
