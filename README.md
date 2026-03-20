@@ -3,7 +3,10 @@
 </p>
 
 <h1 align="center">Welcome to Hassan's GitHub</h1>
-<p align="center"><em>&lt;/&gt;</em></p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?size=28&color=FFFFFF&center=true&vCenter=true&width=600&lines=C%2B%2B+Developer;DSA+Enthusiast;Computer+Engineering+Student;Building+Efficient+Systems" />
+</p>
 
 ---
 
@@ -14,17 +17,17 @@ C++ Developer • DSA Enthusiast • Computer Engineering Student
 </p>
 
 <p align="center">
-<em>Building efficient systems through clean and optimized code</em>
+<em>Focused on performance, clean architecture, and problem solving.</em>
 </p>
 
 ---
 
-## 💻 About Me
+## 🧠 About Me
 
-- 🚀 Passionate about **C++ and Problem Solving**
-- 🧠 Focused on **Data Structures & Algorithms**
-- 🏗️ Building structured and modular systems using **OOP**
-- 📈 Continuously improving coding and system design skills
+- 🚀 Building systems using **C++ and OOP**
+- 🧩 Strong focus on **Data Structures & Algorithms**
+- 🛠️ Writing clean, modular, and maintainable code
+- 📈 Continuously improving through problem solving
 
 ---
 
@@ -48,28 +51,25 @@ C++ Developer • DSA Enthusiast • Computer Engineering Student
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 🔹 **Banking System (C++)**  
-Console-based application using OOP principles and modular design  
+Modular console-based system implementing OOP, file handling, and transaction management  
 
 🔹 **DSA Practice**  
-Collection of core data structures and algorithm implementations  
+Structured implementations of core data structures and algorithms  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hassanmahmood4&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hassanmahmood4&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassanmahmood4&layout=compact&theme=github_dark&hide_border=true&bg_color=000000" height="150"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Hassanmahmood4&theme=github-dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassanmahmood4&layout=compact&theme=github_dark&hide_border=true&bg_color=000000" />
 </p>
 
 ---
@@ -77,12 +77,20 @@ Collection of core data structures and algorithm implementations
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hassanmahmood4&theme=github-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hassanmahmood4&theme=github-dark&hide_border=true" />
 </p>
 
 ---
 
-## 🤝 Connect With Me
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Hassanmahmood4/Hassanmahmood4/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🤝 Connect
 
 <p align="center">
 
@@ -98,7 +106,7 @@ Collection of core data structures and algorithm implementations
 
 ---
 
-## 👀 Profile Views
+## 👀 Visitors
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/Hassanmahmood4/count.svg" />
