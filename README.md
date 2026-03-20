@@ -1,8 +1,4 @@
-Here’s your INSANE MODE upgraded README with a proper logo-based tech stack (modern + clean + powerful) — fully merged into your existing design.
 
-👉 Just copy everything below and paste directly
-
-⸻
 
 
 <div align="center">
@@ -13,7 +9,7 @@ Here’s your INSANE MODE upgraded README with a proper logo-based tech stack (m
 
 Hassan Mahmood
 
-C++ Developer | DSA Enthusiast | Computer Engineering Student
+Full Stack Devolper | Machine Learning | Computer Engineering Student
 
 Building reliable systems, sharpening fundamentals, and shipping maintainable code.
 
@@ -24,7 +20,7 @@ Building reliable systems, sharpening fundamentals, and shipping maintainable co
 ⸻
 
 About me
-	•	Passion for C++ and structured, performance-minded programs
+	•	Passion for AI and structured, performance-minded programs
 	•	Strong interest in Data Structures & Algorithms and algorithmic problem solving
 	•	Focus on problem solving, system building, and code that stays clear as projects grow
 
