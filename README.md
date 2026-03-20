@@ -143,16 +143,15 @@ Contribution snake
 
 <div align="center">
 
+<sub>Animated GIF from <code>.github/workflows/snake.yml</code> · file lives in <code>assets/</code> on <code>main</code> (relative URL so it loads on your profile).</sub>
 
-Automated via GitHub Actions
+<br /><br />
 
+<img src="assets/github-contribution-grid-snake.gif" alt="Contribution grid snake animation" width="100%" />
 
+<br /><br />
 
-<img src="https://raw.githubusercontent.com/Hassanmahmood4/Hassanmahmood4/output/github-contribution-grid-snake.svg" />
-
-
-<img src="https://komarev.com/ghpvc/?username=Hassanmahmood4&label=Profile%20views&color=0d1117&style=flat" />
-
+<img src="https://komarev.com/ghpvc/?username=Hassanmahmood4&label=Profile%20views&color=0d1117&style=flat" alt="Profile views" />
 
 </div>
 

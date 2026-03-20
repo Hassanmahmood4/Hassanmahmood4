@@ -17,21 +17,32 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - uses: Platane/snk@v3
         with:
           github_user_name: Hassanmahmood4
           outputs: |
             dist/github-contribution-grid-snake.svg?palette=github-dark
+            dist/github-contribution-grid-snake.gif?palette=github-dark
 
-      - name: Copy SVG into assets for README
+      - name: Copy into assets
         run: |
           mkdir -p assets
           cp -f dist/github-contribution-grid-snake.svg assets/github-contribution-grid-snake.svg
+          cp -f dist/github-contribution-grid-snake.gif assets/github-contribution-grid-snake.gif
 
-      - uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "chore: update contribution snake SVG [skip ci]"
-          file_pattern: assets/github-contribution-grid-snake.svg
-          commit_user_name: github-actions[bot]
-          commit_user_email: github-actions[bot]@users.noreply.github.com
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/github-contribution-grid-snake.svg assets/github-contribution-grid-snake.gif
+          if git diff --cached --quiet; then
+            echo "No changes to snake assets."
+          else
+            git commit -m "chore: update contribution snake [skip ci]"
+            git push origin HEAD:main
+          fi
