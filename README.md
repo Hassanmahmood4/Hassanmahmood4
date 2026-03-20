@@ -25,7 +25,7 @@ I focus on **C++**, **object-oriented programming**, and **data structures & alg
 | **C++** | Core language in coursework-style and internship-track repos (CMake-backed). |
 | **Object-Oriented Programming** | Applied in structured C++ projects (e.g. modular ATM-style console systems). |
 | **Data Structures** | Arrays, graphs, heaps as used in maze and ML pipeline code. |
-| **Algorithms** | e.g. A\* pathfinding, genetic search, rule-based inference (per repo scope). |
+| **Algorithms** | e.g. A-star pathfinding, genetic search, rule-based inference (per repo scope). |
 | **Git** | Version control for all projects on this profile. |
 | **Linux** | Primary environment for C++/Python development and shell-based workflows. |
 
