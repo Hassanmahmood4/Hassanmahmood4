@@ -118,13 +118,6 @@ Contribution graph
 
 ⸻
 
-🚀 Projects
-	•	🔹 Banking System (C++) — OOP-based modular system with file handling
-	•	🔹 CodeMind — API-based logic + backend integration + structured development
-	•	🔹 DSA Practice — Core algorithms and problem-solving implementations
-
-⸻
-
 Connect
 <div align="center">
 
