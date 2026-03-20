@@ -102,11 +102,11 @@
 
 <div align="center">
 
-<sub>Updated daily by <code>.github/workflows/snake.yml</code> (SVG lives on <code>main</code> under <code>assets/</code>).</sub>
+<sub>Updated by <code>.github/workflows/snake.yml</code> · SVG served via jsDelivr (avoids profile image-proxy issues with raw GitHub URLs).</sub>
 
 <br /><br />
 
-<img src="https://raw.githubusercontent.com/Hassanmahmood4/Hassanmahmood4/main/assets/github-contribution-grid-snake.svg" alt="Contribution grid snake animation" />
+<img src="https://cdn.jsdelivr.net/gh/Hassanmahmood4/Hassanmahmood4@main/assets/github-contribution-grid-snake.svg" alt="Contribution grid snake animation" />
 
 <br /><br />
 
