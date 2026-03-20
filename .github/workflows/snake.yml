@@ -20,28 +20,26 @@ jobs:
         with:
           ref: main
           fetch-depth: 0
-          token: ${{ secrets.GITHUB_TOKEN }}
 
       - uses: Platane/snk@v3
         with:
           github_user_name: Hassanmahmood4
           outputs: |
             dist/github-contribution-grid-snake.svg?palette=github-dark
-            dist/github-contribution-grid-snake.gif?palette=github-dark
 
-      - name: Copy into assets
+      - name: Copy SVG into assets
         run: |
           mkdir -p assets
           cp -f dist/github-contribution-grid-snake.svg assets/github-contribution-grid-snake.svg
-          cp -f dist/github-contribution-grid-snake.gif assets/github-contribution-grid-snake.gif
+          ls -la assets/
 
       - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add assets/github-contribution-grid-snake.svg assets/github-contribution-grid-snake.gif
+          git add assets/github-contribution-grid-snake.svg
           if git diff --cached --quiet; then
-            echo "No changes to snake assets."
+            echo "No changes to snake SVG."
           else
             git commit -m "chore: update contribution snake [skip ci]"
             git push origin HEAD:main
