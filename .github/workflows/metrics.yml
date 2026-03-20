@@ -1,0 +1,17 @@
+name: GitHub profile metrics
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@v3.34
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Hassanmahmood4
+          base: header, activity, community, repositories, metadata
