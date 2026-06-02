@@ -49,35 +49,9 @@ portfolio →  hassanmahmood.vercel.app
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA-000000?style=for-the-badge)
-![REST APIs](https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge)
-
----
-
-## Experience
-
-| Role | Company | Period |
-|---|---|---|
-| Full Stack Development Intern | DevelopersHub Corporation | Apr 2026 – Present |
-| Full Stack Development Intern | DecodeLabs | Apr 2026 – May 2026 |
-| C++ Programming Intern | Arch Technologies | Feb 2026 – Mar 2026 |
-| Enterprise Solutions Intern | Nayatel Islamabad | Jul 2025 – Aug 2025 |
-
----
-
-## Projects
-
-| Project | Description |
-|---|---|
-| **TruckOps** | Logistics and transport management platform with dashboard interfaces and backend integration |
-| **MindScribe** | AI-powered productivity and note management app with intelligent workflow features |
-| **CodeMind** | Developer platform integrating AI-assisted coding workflows and modern UI |
-| **GitBoard** | GitHub analytics dashboard for repository tracking and workflow monitoring |
-| **Cyllene** | Scalable web application with reusable frontend components and optimized performance |
-| **MailShield** | Email security and spam filtering system focused on secure communication workflows |
-| **DataMorph** | Data transformation and visualization workflows using modern backend technologies |
-| **LaLiga FootyForecast** | Machine learning-based football prediction system using predictive modeling |
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-111111?style=for-the-badge)
+![REST APIs](https://img.shields.io/badge/REST_APIs-111111?style=for-the-badge)
 
 ---
 
@@ -85,15 +59,15 @@ portfolio →  hassanmahmood.vercel.app
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hassanmahmood4&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa&rank_icon=github" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Hassanmahmood4&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="175"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassanmahmood4&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&langs_count=8" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassanmahmood4&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" height="175"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Hassanmahmood4&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&dates=666666" />
+<img src="https://streak-stats.demolab.com?user=Hassanmahmood4&hide_border=true&theme=tokyonight" />
 
 </div>
 
