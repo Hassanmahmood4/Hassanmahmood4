@@ -99,24 +99,11 @@ portfolio →  hassanmahmood.vercel.app
 
 ---
 
-## Pac-Man Contribution
+## Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Hassanmahmood4/Hassanmahmood4/output/pacman.svg" alt="Pac-Man contribution graph" />
-
-</div>
-
----
-
-## GitHub Skyline
-
-<div align="center">
-
-Check out my GitHub contribution skyline in 3D:
-
-[![2025 Skyline](https://img.shields.io/badge/2025_Skyline-000000?style=for-the-badge&logo=github&logoColor=white)](https://skyline.github.com/Hassanmahmood4/2025)
-[![2024 Skyline](https://img.shields.io/badge/2024_Skyline-111111?style=for-the-badge&logo=github&logoColor=white)](https://skyline.github.com/Hassanmahmood4/2024)
+<img src="assets/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
 
 </div>
 
