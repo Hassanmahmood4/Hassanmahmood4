@@ -81,6 +81,12 @@ portfolio →  hassanmahmood.vercel.app
 
 </div>
 
+<div align="center">
+
+<img src="github-metrics.svg" alt="GitHub Metrics" />
+
+</div>
+
 ---
 
 ## Contribution Graph
@@ -94,40 +100,6 @@ portfolio →  hassanmahmood.vercel.app
 ---
 
 ## Pac-Man Contribution
-
-> **Setup required:** Go to your `Hassanmahmood4` repo → Actions → enable workflows → add the file below to `.github/workflows/pacman.yml`, then run it once manually.
-
-<details>
-<summary>Click to see the workflow file</summary>
-
-```yaml
-name: Generate Pac-Man
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/pacman.svg?palette=github-dark&type=pacman
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
 
 <div align="center">
 
