@@ -99,11 +99,11 @@ portfolio →  hassanmahmood.vercel.app
 
 ---
 
-## Contribution Snake
+## Pac-Man Contribution
 
 <div align="center">
 
-<img src="assets/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+<img src="assets/pacman.svg" alt="Pac-Man contribution graph" />
 
 </div>
 
