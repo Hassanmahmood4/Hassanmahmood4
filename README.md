@@ -27,6 +27,16 @@ portfolio →  hassanmahmood.vercel.app
 
 ---
 
+## Trophies
+
+<div align="center">
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Hassanmahmood4&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
 ## Tech Stack
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -81,9 +91,70 @@ portfolio →  hassanmahmood.vercel.app
 
 </div>
 
+---
+
+## Pac-Man Contribution
+
+> **Setup required:** Go to your `Hassanmahmood4` repo → Actions → enable workflows → add the file below to `.github/workflows/pacman.yml`, then run it once manually.
+
+<details>
+<summary>Click to see the workflow file</summary>
+
+```yaml
+name: Generate Pac-Man
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/pacman.svg?palette=github-dark&type=pacman
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
+
 <div align="center">
 
-![Snake](https://github.com/Hassanmahmood4/Hassanmahmood4/raw/main/assets/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/Hassanmahmood4/Hassanmahmood4/output/pacman.svg" alt="Pac-Man contribution graph" />
+
+</div>
+
+---
+
+## GitHub Skyline
+
+<div align="center">
+
+Check out my GitHub contribution skyline in 3D:
+
+[![2025 Skyline](https://img.shields.io/badge/2025_Skyline-000000?style=for-the-badge&logo=github&logoColor=white)](https://skyline.github.com/Hassanmahmood4/2025)
+[![2024 Skyline](https://img.shields.io/badge/2024_Skyline-111111?style=for-the-badge&logo=github&logoColor=white)](https://skyline.github.com/Hassanmahmood4/2024)
+
+</div>
+
+---
+
+## Joke of the Day
+
+<div align="center">
+
+[![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder)](https://github.com/ABSphreak/readme-jokes)
 
 </div>
 
