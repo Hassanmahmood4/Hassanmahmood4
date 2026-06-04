@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Hassan Mahmood
+# Hassan Mahmood
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Software+Engineer;Machine+Learning+Enthusiast;Building+scalable+web+applications)](https://git.io/typing-svg)
 
