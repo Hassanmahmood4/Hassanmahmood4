@@ -16,11 +16,11 @@
 
 Computer Engineering student at **Pak-Austria Fachhochschule** (4th semester) with hands-on experience in full stack development, software engineering, and machine learning.
 
-I build scalable web applications, REST APIs, responsive frontends, and AI-powered tools — across four internships and eight shipped projects focused on backend integration and collaborative engineering.
+I build scalable web applications, REST APIs, responsive frontends, AI-powered tools, and machine learning pipelines — across four internships and eight shipped projects focused on backend integration and collaborative engineering.
 
 ```text
 degree    →  Bachelor of Computer Engineering — Pak-Austria FH (4th Semester)
-stack     →  React · Next.js · Node.js · Python · TypeScript · C++ · MongoDB · Supabase
+stack     →  React · Next.js · Node.js · Python · TypeScript · C++ · MongoDB · Supabase · Machine Learning
 portfolio →  hassanmahmood.vercel.app
 contact   →  hmahmood19662004@gmail.com
 ```
@@ -54,6 +54,15 @@ contact   →  hmahmood19662004@gmail.com
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
+### Machine Learning
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-58A6FF?style=for-the-badge&logo=googlecolab&logoColor=white)
+
 ### Tools & Other
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -61,7 +70,6 @@ contact   →  hmahmood19662004@gmail.com
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-58A6FF?style=for-the-badge&logo=fastapi&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![DSA](https://img.shields.io/badge/DSA-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white)
 
 ---
@@ -95,6 +103,35 @@ AI-powered developer tool that reviews code and surfaces bugs, logic errors, sec
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-Powered-58A6FF?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [DataMorph](https://github.com/Hassanmahmood4/Datamorph)
+
+Transforms CSV files into polished Excel reports through a simple Gradio web UI. Upload raw data, clean and reshape it, then download production-ready outputs in seconds.
+
+<br />
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-F97316?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### [LaLiga FootyForecast](https://github.com/Hassanmahmood4/laliga-footyforecast)
+
+End-to-end machine learning project for predicting La Liga match winners. Includes data preprocessing, model training, and a web UI with calibrated probabilities — not just labels.
+
+<br />
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-58A6FF?style=flat-square)
 
 </td>
 </tr>
