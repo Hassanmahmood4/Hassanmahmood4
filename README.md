@@ -66,6 +66,42 @@ contact   →  hmahmood19662004@gmail.com
 
 ---
 
+## Top Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [MindScribe](https://github.com/Hassanmahmood4/MindScribe)
+
+AI-integrated note-taking app with intelligent capture, retrieval, and a workflow engine that nudges, not nags. Built with Clerk authentication, Gemini-powered intelligence, and Supabase for secure, real-time data management.
+
+<br />
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### [CodeMind](https://github.com/Hassanmahmood4/CodeMind)
+
+AI-powered developer tool that reviews code and surfaces bugs, logic errors, security risks, and best-practice improvements. Paste snippets or analyze repositories for actionable feedback that improves code quality and maintainability.
+
+<br />
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![AI](https://img.shields.io/badge/AI-Powered-58A6FF?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+---
+
 ## GitHub Stats
 
 <div align="center">
