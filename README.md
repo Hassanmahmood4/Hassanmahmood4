@@ -16,7 +16,7 @@
 
 ## About Me
 
-Computer Engineering student at **Pak-Austria Fachhochschule** (4th semester) with hands-on experience in full stack development, software engineering, and machine learning.
+Computer Engineering student at **Pak-Austria Fachhochschule** (5th semester) with hands-on experience in full stack development, software engineering, and machine learning.
 
 I build scalable web applications, REST APIs, responsive frontends, AI-powered tools, and machine learning pipelines — across four internships and eight shipped projects focused on backend integration and collaborative engineering.
 
