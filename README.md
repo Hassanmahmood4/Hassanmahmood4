@@ -19,7 +19,7 @@ Computer Engineering student at **Pak-Austria Fachhochschule** (5th semester) wi
 I build scalable web applications, REST APIs, responsive frontends, AI-powered tools, and machine learning pipelines — across four internships and eight shipped projects focused on backend integration and collaborative engineering.
 
 ```text
-degree    →  Bachelor of Computer Engineering — Pak-Austria FH (4th Semester)
+degree    →  Bachelor of Computer Engineering — Pak-Austria FH (5th Semester)
 stack     →  React · Next.js · Node.js · Python · TypeScript · C++ · MongoDB · Supabase · Machine Learning
 portfolio →  hassanmahmood.vercel.app
 contact   →  hmahmood19662004@gmail.com
