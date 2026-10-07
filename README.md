@@ -89,7 +89,7 @@ contact   →  hmahmood19662004@gmail.com
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=Hassanmahmood4&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" height="165" /> <img src="https://streak-stats.demolab.com/?user=Hassanmahmood4&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" height="165" />
+<img src="https://github-stats-extended.vercel.app/api?username=Hassanmahmood4&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" height="165" /> <img src="https://streak-stats.demolab.com/?user=Hassanmahmood4&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=c9d1d9&timezone=Asia/Karachi" alt="GitHub Streak" height="165" />
 
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Hassanmahmood4&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" height="220" />
 
